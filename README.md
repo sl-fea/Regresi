@@ -1,2 +1,2 @@
 # Regresi
-Melakukan regresi pada harga rumah
+Melakukan regresi untuk pengetahui pengaruh pada harga rumah
